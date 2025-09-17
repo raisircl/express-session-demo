@@ -1,5 +1,6 @@
 1. Install session middleware
 npm install express-session
+
 2. Configure session in your app.js (or server.js)
 const express = require("express");
 const session = require("express-session");
